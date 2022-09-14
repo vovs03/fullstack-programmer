@@ -66,3 +66,13 @@ Merge made by recursive.
 ## 13. Tagging versions
 
 - https://githowto.com/tagging_versions
+
+- `git hist master --all`
+
+## 14. Discarding local changes (before staging)
+
+Вернуться на первоначальное состояние файла до внесения изменений
+
+- `git checkout hello.html`
+
+> https://githowto.com/undoing_local_changes
