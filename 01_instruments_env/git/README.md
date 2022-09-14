@@ -76,3 +76,12 @@ Merge made by recursive.
 - `git checkout hello.html`
 
 > https://githowto.com/undoing_local_changes
+
+## 15. Cancel Staged changes (before committing)
+
+> https://githowto.com/undoing_staged_changes
+
+1. Edit file and stage changes
+2. Check the status
+3. Reset the buffer zone
+4. Switch to commit version
