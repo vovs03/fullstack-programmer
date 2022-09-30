@@ -2,7 +2,7 @@
 
 > Add there into your .profile as `~/.zshrc`
 
-```congig
+```config
 alias gs='git status '
 alias ga='git add '
 alias gb='git branch '
