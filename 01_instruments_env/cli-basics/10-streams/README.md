@@ -67,3 +67,7 @@ cat output
 ## Дополнительно
 
 > [Bash Reference Manual — redirections](https://www.gnu.org/software/bash/manual/bash.html#Redirections) :cool:
+
+## Solution
+
+- `cat source > /tmp/result`
